@@ -320,11 +320,13 @@ body {
 
 .contact {
 
-background-image: url(/20_Horizon_CodeSlam_IEEE_CIET/images/Rectangle\ 3\ copy.png);
+background-image: url("images/Rectangle 4 copy 2.png");
     color: white;
     text-align: center;
     padding: 20px 0;
+    margin: 5px auto;
     font-size: 20px;
+    width: 50%;
 }
 
 .contact .phone {
